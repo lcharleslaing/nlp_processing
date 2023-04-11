@@ -1,2 +1,10 @@
-/.env
-/venv
+# Directories to ignore
+/gpt_token_saver_env/
+/build/
+__pycache__
+
+# Files to ignore
+*.pyc
+*.pyo
+*.egg-info/
+dist/
